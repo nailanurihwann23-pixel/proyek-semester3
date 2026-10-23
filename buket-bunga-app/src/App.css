@@ -1,0 +1,4 @@
+/* src/App.css — tidak digunakan pada Phase 1.
+   File ini dikosongkan agar tidak menimpa token dari global.css.
+   Style komponen akan ditambahkan di Phase 2+ menggunakan CSS Modules
+   atau class dari tokens.css dan global.css. */
